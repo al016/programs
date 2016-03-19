@@ -1,0 +1,6 @@
+program one;
+
+begin
+
+writeln('hello world');
+end.
